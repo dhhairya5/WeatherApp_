@@ -1,0 +1,7 @@
+ body {
+    background-image: url('your-image-url.jpg');
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+} 
+
